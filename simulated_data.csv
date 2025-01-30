@@ -1,0 +1,1001 @@
+user_id,session_date,session_duration_in_minutes,features_used,user_feedback_score,user_location,app_load_time_in_seconds,error_occurrences,regulatory_focus
+1,2024-08-15,33,Inspection Report,4.7,San Diego,1,1,SB326
+2,2024-02-20,40,Compliance Check,4.6,Los Angeles,1,1,Section 604
+3,2024-10-31,16,Design Consultation,4.4,Sacramento,1,1,SB326
+4,2024-09-05,23,Design Consultation,4.0,Los Angeles,1,1,SB326
+5,2024-12-05,38,Design Consultation,4.2,Santa Ana,1,0,SB721
+6,2024-09-20,23,Design Consultation,4.0,Los Angeles,2,0,SB721
+7,2024-03-21,40,Design Consultation,4.6,Santa Ana,2,0,SB326
+8,2024-09-25,38,Compliance Check,4.5,Fresno,1,0,Section 604
+9,2024-08-25,26,Inspection Report,3.6,San Diego,2,1,SB721
+10,2024-12-18,27,Compliance Check,4.8,Santa Ana,2,0,Section 604
+11,2024-04-15,27,Compliance Check,3.7,San Diego,2,0,Section 604
+12,2024-10-26,35,Design Consultation,3.8,Long Beach,2,0,SB721
+13,2024-12-02,23,Compliance Check,3.9,San Diego,1,0,SB721
+14,2024-09-10,38,Inspection Report,4.7,Bakersfield,2,0,Section 604
+15,2024-07-16,32,Design Consultation,4.3,San Diego,2,0,Section 604
+16,2024-01-19,23,Design Consultation,4.4,Santa Ana,2,0,SB721
+17,2024-05-06,33,Design Consultation,4.7,San Diego,2,0,Section 604
+18,2024-10-12,21,Design Consultation,4.1,San Diego,2,1,SB721
+19,2024-10-15,38,Compliance Check,4.2,Long Beach,1,1,SB721
+20,2024-05-01,31,Design Consultation,3.9,San Diego,1,1,Section 604
+21,2024-09-27,38,Other,4.7,Los Angeles,1,0,SB326
+22,2024-05-10,28,Inspection Report,5.0,San Jose,1,1,Section 604
+23,2024-01-15,32,Design Consultation,3.5,Los Angeles,1,0,SB326
+24,2024-10-02,28,Inspection Report,5.0,Oakland,1,0,Section 604
+25,2024-11-11,32,Compliance Check,4.5,Los Angeles,1,1,Section 604
+26,2024-04-16,16,Other,4.2,San Diego,1,0,SB326
+27,2024-10-17,35,Compliance Check,3.5,San Jose,1,1,SB721
+28,2024-12-30,35,Design Consultation,3.6,Los Angeles,2,2,Section 604
+29,2024-04-18,38,Other,3.9,Fresno,1,0,SB721
+30,2024-10-24,39,Design Consultation,4.0,San Diego,2,0,Section 604
+31,2024-05-06,33,Inspection Report,4.7,Los Angeles,1,0,SB721
+32,2024-05-01,37,Design Consultation,4.4,San Diego,1,0,SB326
+33,2024-08-06,15,Other,3.6,Fresno,2,0,SB326
+34,2024-06-08,22,Inspection Report,4.8,San Diego,1,0,SB721
+35,2024-07-11,33,Design Consultation,4.1,Los Angeles,1,1,Section 604
+36,2024-10-05,26,Design Consultation,4.9,San Diego,1,0,Section 604
+37,2024-12-13,26,Compliance Check,5.0,Fresno,1,0,Section 604
+38,2024-12-25,20,Design Consultation,5.0,Los Angeles,2,0,SB721
+39,2024-03-20,38,Design Consultation,4.5,Los Angeles,1,0,SB326
+40,2024-04-19,35,Design Consultation,4.3,San Diego,1,0,SB326
+41,2024-04-01,35,Design Consultation,4.9,Los Angeles,1,0,SB721
+42,2024-09-23,21,Compliance Check,4.5,San Diego,1,0,SB721
+43,2024-12-07,24,Other,4.1,Los Angeles,2,0,SB326
+44,2024-02-08,40,Other,5.0,Bakersfield,2,0,SB326
+45,2024-12-17,32,Inspection Report,4.0,Fresno,1,1,Section 604
+46,2024-01-01,30,Design Consultation,3.6,San Jose,1,2,Section 604
+47,2024-01-07,30,Compliance Check,4.3,Sacramento,1,0,Section 604
+48,2024-11-18,16,Inspection Report,4.0,San Diego,1,0,SB721
+49,2024-03-16,32,Compliance Check,4.3,San Diego,1,0,SB721
+50,2024-03-04,27,Compliance Check,4.5,Fresno,1,0,SB721
+51,2024-03-07,39,Design Consultation,3.6,San Diego,1,1,SB326
+52,2024-08-04,16,Design Consultation,3.5,Los Angeles,1,0,SB326
+53,2024-06-14,23,Design Consultation,4.6,Long Beach,2,0,SB326
+54,2024-02-02,21,Inspection Report,5.0,San Jose,2,0,SB721
+55,2024-04-08,17,Compliance Check,4.8,Santa Ana,1,0,SB721
+56,2024-09-13,29,Inspection Report,3.9,Los Angeles,2,1,SB326
+57,2024-06-02,27,Compliance Check,3.7,San Jose,3,0,Section 604
+58,2024-11-06,28,Design Consultation,4.2,Santa Ana,2,0,SB721
+59,2024-09-26,22,Inspection Report,4.2,San Diego,1,0,SB326
+60,2024-02-02,19,Design Consultation,4.6,Los Angeles,2,0,Section 604
+61,2024-06-30,34,Inspection Report,3.7,Los Angeles,2,0,Section 604
+62,2024-07-25,26,Design Consultation,4.4,Fresno,1,0,Section 604
+63,2024-01-25,15,Inspection Report,3.5,Oakland,1,0,Section 604
+64,2024-10-10,33,Inspection Report,5.0,Los Angeles,1,1,Section 604
+65,2024-04-04,23,Design Consultation,4.8,Santa Ana,2,0,SB721
+66,2024-02-10,31,Design Consultation,4.7,San Diego,2,0,SB721
+67,2024-10-28,20,Inspection Report,3.6,Sacramento,1,0,SB326
+68,2024-07-26,30,Design Consultation,4.5,San Diego,1,0,Section 604
+69,2024-04-25,34,Design Consultation,4.3,Los Angeles,2,0,SB721
+70,2024-05-13,40,Design Consultation,3.8,Long Beach,2,0,SB326
+71,2024-03-11,30,Inspection Report,4.8,San Jose,2,0,SB721
+72,2024-05-16,25,Other,4.8,San Diego,1,0,SB326
+73,2024-09-09,36,Design Consultation,4.9,Los Angeles,2,0,SB721
+74,2024-01-07,20,Design Consultation,3.7,Sacramento,1,0,SB721
+75,2024-06-15,17,Design Consultation,4.7,San Diego,1,1,SB326
+76,2024-08-24,27,Compliance Check,3.6,San Diego,1,0,Section 604
+77,2024-11-19,17,Inspection Report,4.8,Santa Ana,1,0,Section 604
+78,2024-02-29,15,Compliance Check,3.5,Los Angeles,1,0,SB721
+79,2024-02-25,25,Compliance Check,3.5,Santa Ana,2,0,SB326
+80,2024-02-04,38,Other,4.1,Santa Ana,1,0,SB721
+81,2024-04-09,18,Design Consultation,4.6,San Jose,1,2,SB326
+82,2024-06-27,37,Other,4.3,San Jose,1,0,SB326
+83,2024-09-02,26,Design Consultation,4.4,Los Angeles,2,0,SB721
+84,2024-11-18,33,Compliance Check,3.6,Fresno,1,0,SB721
+85,2024-12-06,16,Inspection Report,3.6,San Jose,1,0,SB326
+86,2024-11-11,17,Compliance Check,4.8,Sacramento,2,0,SB326
+87,2024-02-29,39,Other,3.5,Los Angeles,2,0,SB721
+88,2024-10-24,40,Design Consultation,3.7,Los Angeles,1,0,SB326
+89,2024-03-30,19,Compliance Check,4.8,San Jose,2,0,SB326
+90,2024-05-31,40,Compliance Check,4.8,Bakersfield,1,2,SB721
+91,2024-10-01,33,Compliance Check,4.7,San Jose,1,1,SB721
+92,2024-07-15,21,Inspection Report,4.7,Santa Ana,2,0,SB721
+93,2024-09-20,36,Inspection Report,5.0,Los Angeles,2,0,SB326
+94,2024-10-30,40,Inspection Report,4.9,Los Angeles,2,1,Section 604
+95,2024-09-18,19,Compliance Check,4.9,San Francisco,1,0,SB326
+96,2024-12-20,20,Other,4.9,Los Angeles,2,0,SB326
+97,2024-06-24,21,Inspection Report,4.6,San Jose,1,0,SB326
+98,2024-10-04,32,Inspection Report,4.5,San Jose,1,0,SB721
+99,2024-02-08,31,Compliance Check,4.7,San Jose,2,0,SB326
+100,2024-12-24,25,Compliance Check,4.3,Los Angeles,1,0,Section 604
+101,2024-07-31,27,Other,4.9,Long Beach,1,2,SB326
+102,2024-06-17,21,Inspection Report,5.0,San Jose,2,0,SB326
+103,2024-12-16,28,Design Consultation,3.9,Oakland,1,0,SB721
+104,2024-09-21,20,Compliance Check,4.1,San Diego,2,1,SB326
+105,2024-08-13,39,Design Consultation,3.7,San Jose,2,0,SB721
+106,2024-09-24,23,Design Consultation,4.5,San Diego,1,1,SB326
+107,2024-05-11,33,Other,3.5,Long Beach,1,0,SB721
+108,2024-11-12,25,Compliance Check,3.9,Oakland,2,0,SB326
+109,2024-05-30,25,Inspection Report,4.2,Los Angeles,1,1,SB721
+110,2024-12-28,34,Inspection Report,4.7,Sacramento,2,0,SB326
+111,2024-06-01,22,Compliance Check,5.0,San Diego,2,0,SB721
+112,2024-09-09,19,Inspection Report,3.7,San Diego,1,0,Section 604
+113,2024-08-01,27,Compliance Check,4.8,San Jose,2,0,Section 604
+114,2024-02-04,22,Design Consultation,4.2,San Diego,2,0,SB326
+115,2024-12-05,29,Compliance Check,4.2,San Jose,2,2,SB326
+116,2024-12-29,19,Design Consultation,4.3,Los Angeles,1,0,SB721
+117,2024-03-22,40,Design Consultation,4.7,San Jose,1,0,SB721
+118,2024-10-05,20,Design Consultation,3.7,San Diego,2,0,SB326
+119,2024-10-10,27,Compliance Check,4.1,Bakersfield,1,0,SB721
+120,2024-12-07,18,Compliance Check,3.5,Sacramento,1,0,SB326
+121,2024-02-21,22,Design Consultation,4.5,Sacramento,1,0,Section 604
+122,2024-03-02,30,Compliance Check,4.2,San Jose,1,0,SB721
+123,2024-01-02,17,Design Consultation,3.7,San Francisco,1,1,SB326
+124,2024-03-10,23,Inspection Report,3.8,Oakland,1,0,SB326
+125,2024-06-29,23,Inspection Report,3.8,San Diego,1,0,SB721
+126,2024-04-26,20,Design Consultation,3.6,San Diego,2,0,SB326
+127,2024-09-25,38,Other,4.5,Los Angeles,2,1,SB721
+128,2024-12-22,29,Compliance Check,3.6,San Diego,2,0,Section 604
+129,2024-12-22,32,Compliance Check,4.7,Bakersfield,2,0,SB326
+130,2024-12-05,24,Design Consultation,3.9,Los Angeles,2,0,Section 604
+131,2024-06-25,16,Other,4.4,Los Angeles,1,1,Section 604
+132,2024-06-20,20,Compliance Check,5.0,Los Angeles,2,0,SB721
+133,2024-06-23,26,Other,4.6,Los Angeles,1,0,SB721
+134,2024-02-11,26,Inspection Report,4.6,San Jose,1,0,SB326
+135,2024-11-23,35,Compliance Check,4.8,Long Beach,2,0,SB721
+136,2024-12-14,29,Compliance Check,3.8,Los Angeles,1,0,SB721
+137,2024-07-09,18,Other,4.2,San Diego,1,0,SB326
+138,2024-10-13,18,Other,4.1,San Francisco,1,0,SB326
+139,2024-04-11,34,Design Consultation,3.8,San Jose,1,0,SB326
+140,2024-01-21,16,Other,4.6,Los Angeles,2,0,Section 604
+141,2024-03-27,25,Inspection Report,5.0,San Diego,1,0,SB326
+142,2024-04-09,31,Design Consultation,4.9,Fresno,2,0,SB721
+143,2024-05-31,24,Compliance Check,4.3,San Diego,2,0,Section 604
+144,2024-10-18,17,Compliance Check,3.9,Santa Ana,1,0,SB326
+145,2024-05-15,24,Design Consultation,4.0,San Jose,2,1,Section 604
+146,2024-02-27,19,Inspection Report,3.6,Los Angeles,1,0,SB721
+147,2024-02-28,35,Inspection Report,3.7,San Jose,1,0,SB326
+148,2024-02-09,23,Inspection Report,4.8,San Diego,1,0,Section 604
+149,2024-06-02,37,Inspection Report,3.7,San Francisco,1,0,SB326
+150,2024-07-10,30,Design Consultation,4.9,Oakland,1,0,SB326
+151,2024-11-17,35,Other,4.7,Los Angeles,2,0,SB326
+152,2024-05-06,28,Design Consultation,4.7,Los Angeles,1,0,Section 604
+153,2024-04-01,17,Compliance Check,4.4,San Jose,1,0,SB721
+154,2024-02-25,16,Design Consultation,3.6,San Diego,2,0,SB721
+155,2024-06-29,22,Design Consultation,3.7,Los Angeles,1,0,SB326
+156,2024-12-27,28,Other,3.9,Los Angeles,1,1,Section 604
+157,2024-10-03,22,Other,4.9,Los Angeles,1,0,Section 604
+158,2024-04-10,26,Compliance Check,3.7,Santa Ana,1,0,Section 604
+159,2024-03-10,27,Design Consultation,4.2,Sacramento,2,1,Section 604
+160,2024-12-16,33,Inspection Report,4.3,Santa Ana,2,0,Section 604
+161,2024-08-29,21,Other,3.9,Santa Ana,1,0,Section 604
+162,2024-01-04,33,Other,4.3,Los Angeles,1,0,SB326
+163,2024-12-27,36,Compliance Check,4.9,San Jose,2,0,SB721
+164,2024-10-18,19,Inspection Report,4.4,Oakland,1,0,SB721
+165,2024-10-05,32,Compliance Check,5.0,Oakland,1,0,SB721
+166,2024-08-08,15,Inspection Report,4.1,San Jose,2,0,SB326
+167,2024-04-15,23,Inspection Report,3.7,San Diego,1,1,SB721
+168,2024-11-16,36,Compliance Check,4.2,Los Angeles,1,0,SB721
+169,2024-02-25,26,Inspection Report,3.9,San Diego,1,0,SB326
+170,2024-12-15,33,Inspection Report,4.9,San Francisco,1,0,Section 604
+171,2024-07-26,35,Compliance Check,4.8,San Diego,2,0,SB326
+172,2024-12-18,29,Design Consultation,4.3,Los Angeles,2,0,SB721
+173,2024-09-07,37,Design Consultation,4.9,Los Angeles,1,1,Section 604
+174,2024-08-12,30,Inspection Report,5.0,Bakersfield,1,0,SB721
+175,2024-11-24,27,Compliance Check,4.5,Santa Ana,2,0,SB721
+176,2024-12-05,27,Inspection Report,4.9,Santa Ana,2,0,SB721
+177,2024-02-11,40,Inspection Report,4.5,Los Angeles,3,0,Section 604
+178,2024-11-10,34,Inspection Report,4.6,Fresno,2,1,SB721
+179,2024-12-03,33,Compliance Check,3.9,Los Angeles,1,0,SB721
+180,2024-11-16,22,Inspection Report,3.6,Oakland,1,1,SB721
+181,2024-09-17,17,Design Consultation,4.0,Los Angeles,1,0,SB326
+182,2024-01-06,33,Design Consultation,4.2,Los Angeles,2,0,SB721
+183,2024-04-19,37,Design Consultation,4.9,Sacramento,1,0,SB721
+184,2024-08-29,33,Compliance Check,4.5,Los Angeles,1,0,SB326
+185,2024-08-02,25,Compliance Check,3.9,San Diego,2,0,Section 604
+186,2024-08-05,36,Other,4.4,Los Angeles,1,1,SB326
+187,2024-01-22,37,Compliance Check,4.3,Fresno,1,1,SB721
+188,2024-01-18,37,Compliance Check,4.6,San Diego,1,0,SB326
+189,2024-08-24,32,Compliance Check,4.2,Los Angeles,1,0,SB721
+190,2024-08-17,23,Inspection Report,4.7,Bakersfield,1,0,SB721
+191,2024-02-14,26,Compliance Check,3.5,Fresno,1,0,Section 604
+192,2024-11-28,30,Compliance Check,4.5,Santa Ana,1,2,Section 604
+193,2024-11-04,30,Inspection Report,3.8,Los Angeles,1,0,SB721
+194,2024-01-06,39,Inspection Report,4.7,Long Beach,1,0,SB721
+195,2024-10-23,30,Compliance Check,3.5,San Diego,1,0,SB721
+196,2024-03-31,35,Compliance Check,3.8,Long Beach,1,0,SB721
+197,2024-04-23,34,Inspection Report,3.6,Sacramento,2,1,Section 604
+198,2024-11-16,40,Inspection Report,4.4,San Diego,2,0,SB721
+199,2024-02-22,40,Inspection Report,4.6,San Jose,2,0,SB326
+200,2024-06-07,35,Design Consultation,4.4,Los Angeles,2,1,SB721
+201,2024-10-29,36,Compliance Check,4.9,San Diego,2,0,SB326
+202,2024-07-26,32,Inspection Report,4.6,Fresno,1,0,SB721
+203,2024-08-30,20,Compliance Check,4.6,Los Angeles,2,0,Section 604
+204,2024-05-22,31,Design Consultation,4.7,Oakland,2,0,Section 604
+205,2024-12-19,15,Design Consultation,3.7,Santa Ana,2,1,Section 604
+206,2024-11-24,29,Design Consultation,3.8,San Jose,1,0,SB721
+207,2024-10-04,34,Design Consultation,4.2,San Francisco,1,2,SB721
+208,2024-03-31,28,Inspection Report,4.9,Santa Ana,1,1,Section 604
+209,2024-11-19,15,Inspection Report,3.7,Fresno,2,0,Section 604
+210,2024-07-08,28,Inspection Report,3.8,Los Angeles,1,0,SB721
+211,2024-10-09,26,Inspection Report,4.6,San Diego,1,0,SB326
+212,2024-12-30,24,Inspection Report,4.2,Los Angeles,1,0,SB721
+213,2024-05-12,31,Other,4.7,Los Angeles,2,0,SB721
+214,2024-03-08,40,Design Consultation,4.7,San Diego,2,0,SB721
+215,2024-11-13,31,Inspection Report,4.4,Los Angeles,1,0,Section 604
+216,2024-03-04,33,Design Consultation,4.5,Bakersfield,1,0,SB326
+217,2024-08-02,36,Design Consultation,4.2,Los Angeles,1,0,SB721
+218,2024-06-24,19,Compliance Check,4.4,San Jose,2,0,SB326
+219,2024-11-25,24,Design Consultation,4.0,Santa Ana,1,1,SB721
+220,2024-10-05,33,Design Consultation,3.8,Santa Ana,2,0,Section 604
+221,2024-01-29,34,Inspection Report,4.7,San Francisco,1,0,Section 604
+222,2024-01-10,32,Design Consultation,3.7,Oakland,2,2,SB326
+223,2024-04-23,28,Design Consultation,4.4,San Diego,1,0,SB326
+224,2024-11-18,15,Compliance Check,4.8,Bakersfield,1,2,SB326
+225,2024-09-22,34,Compliance Check,3.7,Oakland,2,0,Section 604
+226,2024-01-06,25,Inspection Report,4.5,Fresno,1,0,Section 604
+227,2024-12-25,36,Design Consultation,4.1,San Jose,2,0,Section 604
+228,2024-07-07,15,Compliance Check,3.8,Los Angeles,2,0,SB326
+229,2024-07-03,18,Compliance Check,4.7,San Diego,1,0,Section 604
+230,2024-04-02,22,Design Consultation,4.4,Los Angeles,1,0,SB721
+231,2024-02-25,39,Design Consultation,4.4,Bakersfield,2,0,SB721
+232,2024-08-27,29,Compliance Check,3.6,Long Beach,1,0,SB721
+233,2024-02-03,34,Design Consultation,4.9,San Diego,1,0,Section 604
+234,2024-06-15,23,Design Consultation,4.5,Sacramento,1,0,Section 604
+235,2024-06-13,16,Other,3.8,San Jose,1,0,SB721
+236,2024-07-10,23,Inspection Report,4.2,San Diego,1,0,SB326
+237,2024-07-10,35,Inspection Report,4.4,San Jose,2,0,Section 604
+238,2024-03-13,24,Compliance Check,3.9,Santa Ana,2,0,Section 604
+239,2024-11-08,38,Design Consultation,4.9,Santa Ana,1,1,Section 604
+240,2024-02-21,33,Compliance Check,4.2,Los Angeles,1,0,Section 604
+241,2024-04-25,26,Other,4.2,San Jose,1,0,SB721
+242,2024-05-03,37,Design Consultation,4.9,San Jose,2,1,Section 604
+243,2024-02-04,17,Design Consultation,4.1,Los Angeles,1,0,Section 604
+244,2024-11-11,30,Compliance Check,4.1,Santa Ana,1,0,SB721
+245,2024-03-29,19,Inspection Report,5.0,San Diego,2,0,Section 604
+246,2024-01-08,24,Design Consultation,4.4,San Jose,1,0,Section 604
+247,2024-01-28,29,Compliance Check,4.2,San Jose,1,1,Section 604
+248,2024-11-04,33,Design Consultation,3.8,Oakland,1,0,Section 604
+249,2024-12-19,40,Inspection Report,3.6,Oakland,2,0,Section 604
+250,2024-06-20,37,Compliance Check,4.7,Long Beach,1,0,SB721
+251,2024-10-05,31,Compliance Check,5.0,San Francisco,1,0,SB326
+252,2024-05-22,27,Compliance Check,4.0,Fresno,1,0,SB326
+253,2024-06-15,33,Compliance Check,4.2,San Diego,1,0,Section 604
+254,2024-12-18,37,Inspection Report,4.8,Los Angeles,1,0,Section 604
+255,2024-04-27,29,Inspection Report,4.2,Los Angeles,1,0,SB326
+256,2024-07-12,33,Inspection Report,4.6,Fresno,2,0,Section 604
+257,2024-05-31,21,Design Consultation,4.1,Long Beach,1,0,SB721
+258,2024-12-24,19,Design Consultation,4.1,San Francisco,1,0,SB721
+259,2024-05-24,21,Design Consultation,3.8,Bakersfield,2,0,SB326
+260,2024-04-09,26,Compliance Check,4.6,Sacramento,1,0,SB326
+261,2024-04-20,33,Compliance Check,3.9,Oakland,2,0,SB721
+262,2024-10-25,20,Design Consultation,3.7,Los Angeles,2,0,SB326
+263,2024-01-06,16,Other,4.9,Los Angeles,1,0,SB721
+264,2024-10-18,33,Inspection Report,3.9,Fresno,1,0,SB326
+265,2024-10-11,22,Other,3.5,San Francisco,1,0,Section 604
+266,2024-04-11,20,Other,4.7,Los Angeles,1,1,Section 604
+267,2024-03-12,23,Inspection Report,3.5,San Diego,1,0,SB721
+268,2024-11-28,31,Other,3.8,Los Angeles,1,0,SB326
+269,2024-07-31,37,Inspection Report,3.9,Fresno,2,2,SB326
+270,2024-10-20,18,Design Consultation,4.5,San Jose,1,0,SB721
+271,2024-07-28,33,Inspection Report,3.7,Santa Ana,1,0,SB721
+272,2024-01-13,36,Inspection Report,4.0,San Diego,1,0,Section 604
+273,2024-02-18,37,Inspection Report,3.9,San Diego,3,0,Section 604
+274,2024-01-13,21,Inspection Report,3.6,San Diego,1,0,SB721
+275,2024-07-20,22,Design Consultation,3.8,San Jose,2,1,Section 604
+276,2024-12-06,15,Design Consultation,3.7,Sacramento,1,0,SB326
+277,2024-03-05,31,Design Consultation,4.9,San Diego,1,0,SB326
+278,2024-02-02,35,Compliance Check,4.7,Los Angeles,1,1,Section 604
+279,2024-09-09,27,Design Consultation,3.9,San Jose,1,1,SB326
+280,2024-01-08,38,Inspection Report,4.5,Santa Ana,1,2,SB721
+281,2024-04-11,27,Design Consultation,4.7,San Francisco,1,0,SB721
+282,2024-04-25,19,Inspection Report,4.2,Los Angeles,1,0,Section 604
+283,2024-07-27,40,Compliance Check,4.2,Santa Ana,2,0,Section 604
+284,2024-03-21,26,Inspection Report,4.5,San Francisco,2,0,SB721
+285,2024-06-09,19,Inspection Report,5.0,San Francisco,1,0,SB326
+286,2024-08-29,37,Design Consultation,4.3,Santa Ana,1,1,Section 604
+287,2024-06-16,21,Compliance Check,4.9,Los Angeles,3,0,SB326
+288,2024-12-16,27,Design Consultation,4.1,Oakland,2,0,SB326
+289,2024-01-25,25,Design Consultation,4.2,Los Angeles,2,1,Section 604
+290,2024-09-27,31,Inspection Report,3.6,San Diego,1,0,SB721
+291,2024-07-23,38,Inspection Report,4.9,San Diego,2,0,Section 604
+292,2024-10-05,30,Design Consultation,4.1,San Diego,1,0,Section 604
+293,2024-04-18,16,Other,4.6,San Jose,1,0,SB326
+294,2024-02-28,40,Design Consultation,4.6,Los Angeles,3,0,SB721
+295,2024-09-07,35,Inspection Report,4.8,San Francisco,1,0,Section 604
+296,2024-08-05,38,Design Consultation,4.4,San Jose,2,0,Section 604
+297,2024-05-10,39,Compliance Check,3.8,San Diego,1,0,SB326
+298,2024-10-19,35,Compliance Check,4.6,San Jose,1,0,SB721
+299,2024-02-17,21,Design Consultation,4.1,Sacramento,1,0,SB326
+300,2024-03-08,33,Design Consultation,3.5,San Jose,3,0,Section 604
+301,2024-05-10,39,Inspection Report,4.8,Los Angeles,1,0,SB721
+302,2024-10-18,20,Other,5.0,Santa Ana,1,0,SB721
+303,2024-04-21,28,Design Consultation,4.1,San Diego,1,0,SB721
+304,2024-10-16,37,Design Consultation,3.8,Fresno,1,0,SB721
+305,2024-10-21,17,Inspection Report,4.5,Santa Ana,1,0,Section 604
+306,2024-07-27,39,Compliance Check,3.5,Santa Ana,1,0,SB721
+307,2024-06-01,16,Design Consultation,3.7,Los Angeles,1,0,SB721
+308,2024-03-27,16,Inspection Report,4.9,Sacramento,1,0,Section 604
+309,2024-08-13,20,Design Consultation,3.5,San Jose,1,0,SB721
+310,2024-03-15,21,Compliance Check,3.9,San Jose,1,1,SB326
+311,2024-03-28,39,Compliance Check,4.7,Sacramento,1,0,SB721
+312,2024-07-11,28,Compliance Check,4.4,Bakersfield,1,0,Section 604
+313,2024-09-21,26,Inspection Report,3.6,Los Angeles,2,0,SB326
+314,2024-12-09,33,Design Consultation,3.6,Los Angeles,1,2,SB721
+315,2024-05-11,35,Other,4.1,Los Angeles,2,0,SB326
+316,2024-02-29,33,Compliance Check,3.5,San Jose,1,0,SB326
+317,2024-04-16,22,Compliance Check,5.0,San Jose,2,1,SB721
+318,2024-01-22,40,Inspection Report,4.1,San Diego,1,1,SB326
+319,2024-05-14,25,Design Consultation,4.2,San Francisco,1,0,SB721
+320,2024-01-09,40,Design Consultation,3.6,San Jose,1,1,SB721
+321,2024-11-24,18,Other,4.3,Santa Ana,2,0,SB721
+322,2024-10-11,21,Design Consultation,4.0,Los Angeles,2,2,SB721
+323,2024-01-24,23,Compliance Check,4.8,San Diego,2,0,Section 604
+324,2024-05-22,39,Design Consultation,3.8,Fresno,1,0,SB326
+325,2024-08-30,21,Design Consultation,3.5,Los Angeles,1,0,SB721
+326,2024-02-23,24,Compliance Check,4.2,San Jose,2,0,SB326
+327,2024-12-23,30,Inspection Report,4.4,Los Angeles,2,0,SB721
+328,2024-08-18,25,Design Consultation,3.9,Los Angeles,1,2,Section 604
+329,2024-01-15,31,Design Consultation,4.9,Santa Ana,1,0,Section 604
+330,2024-02-19,22,Inspection Report,4.0,San Diego,1,0,SB721
+331,2024-02-07,33,Inspection Report,4.0,San Diego,3,0,Section 604
+332,2024-03-16,30,Compliance Check,4.4,San Diego,1,0,SB721
+333,2024-03-03,24,Other,4.4,San Francisco,1,1,SB721
+334,2024-11-22,27,Inspection Report,3.6,San Diego,2,0,Section 604
+335,2024-11-03,26,Compliance Check,3.5,San Jose,2,0,SB326
+336,2024-10-29,16,Design Consultation,4.8,Los Angeles,2,0,SB326
+337,2024-02-07,23,Design Consultation,3.9,Long Beach,1,0,SB721
+338,2024-12-16,28,Design Consultation,4.9,Long Beach,2,1,Section 604
+339,2024-12-02,23,Inspection Report,4.3,Santa Ana,2,0,SB326
+340,2024-09-12,30,Compliance Check,4.4,Los Angeles,1,0,Section 604
+341,2024-12-08,39,Design Consultation,4.2,San Jose,2,0,SB326
+342,2024-12-27,31,Design Consultation,5.0,Los Angeles,1,0,Section 604
+343,2024-10-29,34,Inspection Report,3.5,Fresno,3,0,SB721
+344,2024-01-12,29,Design Consultation,5.0,Los Angeles,1,0,SB721
+345,2024-01-11,38,Other,4.8,Sacramento,1,0,SB721
+346,2024-04-10,24,Other,3.9,San Diego,1,2,SB721
+347,2024-03-09,20,Compliance Check,4.0,San Diego,1,0,Section 604
+348,2024-11-15,36,Compliance Check,4.8,San Diego,1,1,Section 604
+349,2024-06-14,15,Inspection Report,3.5,Fresno,1,0,SB326
+350,2024-04-01,40,Compliance Check,3.5,Santa Ana,1,0,SB721
+351,2024-10-26,38,Design Consultation,4.7,Bakersfield,1,0,SB721
+352,2024-12-09,27,Compliance Check,4.1,San Francisco,1,0,SB326
+353,2024-12-26,25,Compliance Check,4.8,Los Angeles,2,0,SB721
+354,2024-08-16,17,Inspection Report,3.9,Los Angeles,1,1,SB721
+355,2024-12-13,34,Design Consultation,4.5,Bakersfield,1,0,SB721
+356,2024-12-08,26,Compliance Check,3.9,San Jose,1,0,Section 604
+357,2024-11-23,21,Inspection Report,4.7,San Francisco,1,0,SB326
+358,2024-07-08,22,Other,3.6,Bakersfield,2,2,Section 604
+359,2024-03-02,30,Compliance Check,4.6,Fresno,2,0,SB721
+360,2024-12-29,40,Inspection Report,5.0,Los Angeles,1,0,Section 604
+361,2024-11-02,17,Design Consultation,3.5,San Diego,1,1,SB326
+362,2024-11-12,28,Other,5.0,Los Angeles,2,0,Section 604
+363,2024-06-06,24,Design Consultation,3.8,Santa Ana,2,0,SB721
+364,2024-03-13,37,Other,4.6,San Diego,1,0,SB721
+365,2024-06-18,23,Compliance Check,3.8,Santa Ana,1,0,Section 604
+366,2024-08-22,35,Other,3.6,Los Angeles,1,0,SB326
+367,2024-05-25,16,Inspection Report,4.9,Los Angeles,2,0,SB326
+368,2024-01-05,32,Design Consultation,4.9,Santa Ana,3,0,Section 604
+369,2024-08-13,29,Compliance Check,5.0,Los Angeles,2,1,Section 604
+370,2024-05-28,31,Compliance Check,4.5,San Diego,1,1,Section 604
+371,2024-07-15,33,Design Consultation,4.4,Santa Ana,1,0,SB721
+372,2024-07-25,19,Compliance Check,4.7,Los Angeles,1,0,SB721
+373,2024-06-07,33,Inspection Report,5.0,San Francisco,2,0,SB326
+374,2024-11-25,19,Design Consultation,4.0,Fresno,1,0,SB326
+375,2024-09-24,28,Inspection Report,4.4,Santa Ana,1,0,SB721
+376,2024-02-11,21,Design Consultation,4.6,San Jose,1,0,SB721
+377,2024-10-23,37,Inspection Report,4.8,Fresno,1,0,SB326
+378,2024-07-23,23,Inspection Report,4.3,San Francisco,1,1,SB326
+379,2024-09-08,19,Design Consultation,3.9,San Jose,1,0,SB721
+380,2024-01-02,37,Inspection Report,4.7,Santa Ana,2,0,SB721
+381,2024-12-30,22,Inspection Report,4.1,San Jose,1,0,SB326
+382,2024-05-22,36,Inspection Report,4.8,San Diego,1,0,SB326
+383,2024-07-21,31,Inspection Report,4.3,Los Angeles,1,0,Section 604
+384,2024-06-21,37,Inspection Report,4.3,Bakersfield,1,0,SB326
+385,2024-06-05,25,Compliance Check,4.5,Long Beach,1,1,SB326
+386,2024-07-19,37,Inspection Report,4.2,Bakersfield,1,1,SB721
+387,2024-02-18,35,Design Consultation,4.8,Long Beach,1,1,SB326
+388,2024-12-05,38,Other,4.1,Los Angeles,2,2,Section 604
+389,2024-06-03,18,Inspection Report,4.1,Bakersfield,1,0,SB326
+390,2024-01-09,40,Compliance Check,3.7,San Jose,2,0,Section 604
+391,2024-09-03,18,Compliance Check,4.6,San Jose,1,0,Section 604
+392,2024-03-16,24,Design Consultation,4.0,San Diego,1,0,SB721
+393,2024-11-07,37,Compliance Check,4.1,Los Angeles,3,1,SB326
+394,2024-10-08,38,Other,4.7,Long Beach,2,0,SB721
+395,2024-11-03,17,Design Consultation,4.2,Los Angeles,1,0,SB721
+396,2024-08-28,39,Inspection Report,4.8,San Francisco,1,0,SB326
+397,2024-02-16,18,Design Consultation,4.7,Los Angeles,2,0,SB721
+398,2024-06-24,15,Compliance Check,3.8,Santa Ana,1,0,SB326
+399,2024-06-02,25,Design Consultation,4.9,Los Angeles,2,0,SB326
+400,2024-10-26,34,Compliance Check,3.5,Fresno,2,0,SB326
+401,2024-01-26,27,Inspection Report,4.4,Fresno,1,1,Section 604
+402,2024-11-24,21,Inspection Report,4.5,Long Beach,1,0,SB721
+403,2024-07-09,18,Compliance Check,4.6,Los Angeles,2,1,SB721
+404,2024-04-14,16,Design Consultation,4.6,Bakersfield,2,1,SB326
+405,2024-11-19,26,Inspection Report,4.0,San Diego,2,1,SB326
+406,2024-12-19,19,Inspection Report,3.6,San Diego,2,0,Section 604
+407,2024-11-14,27,Design Consultation,4.6,Santa Ana,1,0,Section 604
+408,2024-09-04,28,Other,4.7,San Diego,1,0,SB721
+409,2024-01-20,33,Compliance Check,4.6,San Jose,2,0,Section 604
+410,2024-10-08,20,Compliance Check,3.7,San Diego,1,2,Section 604
+411,2024-03-26,22,Other,4.6,San Diego,1,0,SB326
+412,2024-03-19,35,Design Consultation,4.6,Sacramento,2,0,SB326
+413,2024-10-14,22,Other,4.6,San Diego,2,1,SB721
+414,2024-12-03,15,Design Consultation,4.0,San Diego,1,0,Section 604
+415,2024-05-28,27,Design Consultation,4.7,Santa Ana,1,0,SB721
+416,2024-08-26,39,Inspection Report,4.6,San Diego,1,0,SB721
+417,2024-06-24,38,Inspection Report,4.8,Long Beach,2,0,SB721
+418,2024-07-08,37,Other,4.4,San Diego,1,0,SB721
+419,2024-07-19,17,Design Consultation,4.9,Sacramento,2,0,Section 604
+420,2024-01-31,21,Design Consultation,3.5,Los Angeles,1,0,SB721
+421,2024-01-02,23,Inspection Report,4.7,Long Beach,2,0,Section 604
+422,2024-05-25,26,Design Consultation,3.5,Los Angeles,1,0,SB721
+423,2024-02-27,36,Compliance Check,4.7,Los Angeles,2,0,SB326
+424,2024-04-27,40,Compliance Check,4.5,Santa Ana,1,0,Section 604
+425,2024-09-10,40,Other,4.5,San Diego,2,1,SB721
+426,2024-02-14,23,Design Consultation,4.3,San Diego,1,0,SB721
+427,2024-08-28,33,Inspection Report,3.7,Los Angeles,2,0,Section 604
+428,2024-09-01,40,Compliance Check,3.6,San Diego,1,1,SB326
+429,2024-02-18,35,Design Consultation,3.9,San Diego,1,0,SB721
+430,2024-02-02,39,Compliance Check,3.5,Los Angeles,1,1,Section 604
+431,2024-08-01,15,Inspection Report,4.6,San Jose,2,0,Section 604
+432,2024-08-20,22,Inspection Report,3.8,San Diego,1,0,SB326
+433,2024-04-22,36,Compliance Check,3.5,Los Angeles,1,2,Section 604
+434,2024-11-30,25,Design Consultation,4.5,Los Angeles,1,0,SB721
+435,2024-11-10,39,Inspection Report,3.7,San Jose,1,0,Section 604
+436,2024-01-05,22,Compliance Check,4.3,Los Angeles,1,0,SB326
+437,2024-04-29,16,Design Consultation,3.7,San Diego,1,0,SB326
+438,2024-11-25,17,Design Consultation,3.6,Los Angeles,2,0,SB326
+439,2024-03-19,16,Compliance Check,3.9,Oakland,1,0,SB326
+440,2024-03-05,36,Other,3.5,Los Angeles,1,0,Section 604
+441,2024-05-23,18,Inspection Report,4.7,San Jose,1,0,SB721
+442,2024-05-11,21,Inspection Report,5.0,Oakland,1,0,SB721
+443,2024-12-30,21,Compliance Check,4.4,Sacramento,1,0,SB721
+444,2024-10-13,17,Design Consultation,3.5,Sacramento,2,0,Section 604
+445,2024-08-19,19,Other,4.8,Santa Ana,1,2,SB326
+446,2024-05-30,36,Design Consultation,3.9,San Diego,2,1,Section 604
+447,2024-01-27,26,Compliance Check,4.2,San Diego,1,2,Section 604
+448,2024-06-26,37,Design Consultation,4.8,San Diego,1,1,Section 604
+449,2024-08-19,39,Compliance Check,3.8,San Diego,1,0,SB326
+450,2024-02-07,35,Other,4.1,Los Angeles,1,0,Section 604
+451,2024-12-04,38,Compliance Check,5.0,San Jose,2,0,SB721
+452,2024-04-02,24,Inspection Report,4.2,Santa Ana,1,0,SB326
+453,2024-08-29,29,Design Consultation,3.6,Sacramento,1,0,SB326
+454,2024-10-31,16,Design Consultation,4.5,Los Angeles,2,0,SB721
+455,2024-09-06,28,Design Consultation,3.7,Oakland,1,0,SB326
+456,2024-08-27,26,Other,3.5,Los Angeles,1,0,SB326
+457,2024-11-20,27,Design Consultation,4.7,Santa Ana,2,0,SB326
+458,2024-12-03,38,Design Consultation,3.8,Los Angeles,1,0,Section 604
+459,2024-02-18,38,Design Consultation,4.7,San Jose,1,0,SB721
+460,2024-07-04,21,Compliance Check,4.9,Los Angeles,1,1,Section 604
+461,2024-12-24,25,Design Consultation,4.0,San Francisco,1,0,SB721
+462,2024-01-07,27,Design Consultation,4.9,San Jose,1,0,SB326
+463,2024-06-30,37,Compliance Check,4.8,Los Angeles,1,0,SB721
+464,2024-03-13,21,Design Consultation,3.7,San Jose,2,0,SB326
+465,2024-05-28,33,Compliance Check,5.0,Long Beach,1,1,SB721
+466,2024-11-18,38,Compliance Check,5.0,Los Angeles,1,0,SB721
+467,2024-09-14,19,Compliance Check,4.1,Santa Ana,2,1,Section 604
+468,2024-10-29,18,Compliance Check,4.2,Sacramento,1,0,Section 604
+469,2024-01-20,15,Inspection Report,4.4,Santa Ana,2,0,SB721
+470,2024-08-04,36,Compliance Check,4.6,San Diego,1,0,SB721
+471,2024-11-12,35,Other,4.9,Los Angeles,1,0,Section 604
+472,2024-10-02,17,Inspection Report,4.2,Fresno,1,1,Section 604
+473,2024-09-24,35,Inspection Report,4.7,Santa Ana,2,0,Section 604
+474,2024-06-27,21,Inspection Report,3.5,Bakersfield,2,0,Section 604
+475,2024-12-24,39,Design Consultation,3.5,Los Angeles,2,0,SB721
+476,2024-02-07,28,Inspection Report,4.3,Los Angeles,1,0,SB721
+477,2024-10-14,19,Other,4.0,San Jose,2,0,Section 604
+478,2024-11-11,19,Inspection Report,4.9,Los Angeles,1,0,SB326
+479,2024-08-23,18,Other,3.8,Santa Ana,2,1,SB326
+480,2024-05-23,20,Compliance Check,4.1,Los Angeles,3,1,SB326
+481,2024-04-16,16,Inspection Report,4.1,San Jose,2,0,SB721
+482,2024-09-05,21,Other,5.0,Los Angeles,2,0,SB326
+483,2024-03-16,19,Inspection Report,3.7,Santa Ana,2,0,SB326
+484,2024-11-28,29,Compliance Check,5.0,Santa Ana,1,0,SB326
+485,2024-10-14,35,Compliance Check,4.0,Los Angeles,1,0,Section 604
+486,2024-07-23,23,Design Consultation,4.1,Los Angeles,1,0,SB326
+487,2024-07-26,21,Other,3.9,San Jose,1,0,Section 604
+488,2024-12-25,40,Design Consultation,4.5,Los Angeles,2,0,SB721
+489,2024-12-26,30,Compliance Check,4.2,San Diego,1,0,SB326
+490,2024-11-08,24,Inspection Report,4.4,Sacramento,1,0,SB326
+491,2024-05-25,16,Other,3.8,Santa Ana,2,0,SB721
+492,2024-01-01,22,Compliance Check,4.6,San Jose,1,0,SB326
+493,2024-03-03,23,Other,4.8,Los Angeles,1,0,SB721
+494,2024-06-28,34,Compliance Check,3.5,San Francisco,2,1,SB326
+495,2024-09-05,36,Inspection Report,4.5,Sacramento,2,0,SB326
+496,2024-07-06,19,Inspection Report,4.8,Los Angeles,2,0,SB721
+497,2024-06-13,34,Compliance Check,4.6,San Diego,2,0,SB326
+498,2024-08-10,22,Inspection Report,3.9,Sacramento,1,0,SB721
+499,2024-01-20,16,Compliance Check,4.9,San Jose,2,0,SB326
+500,2024-08-16,31,Compliance Check,5.0,Los Angeles,1,0,Section 604
+501,2024-04-27,40,Other,3.5,Los Angeles,1,0,SB721
+502,2024-08-30,33,Inspection Report,4.2,San Jose,2,0,Section 604
+503,2024-11-09,21,Design Consultation,3.5,Los Angeles,2,0,SB326
+504,2024-03-17,24,Inspection Report,3.5,Fresno,1,0,SB326
+505,2024-02-19,28,Inspection Report,3.5,Long Beach,1,0,SB721
+506,2024-10-11,25,Design Consultation,3.6,Los Angeles,2,1,SB721
+507,2024-08-13,30,Inspection Report,3.8,Los Angeles,2,1,SB326
+508,2024-11-23,35,Inspection Report,4.7,San Francisco,2,1,SB721
+509,2024-11-19,22,Design Consultation,4.2,San Diego,1,0,Section 604
+510,2024-12-14,34,Design Consultation,4.8,San Jose,1,1,Section 604
+511,2024-03-06,21,Design Consultation,4.6,San Diego,2,0,Section 604
+512,2024-08-19,17,Inspection Report,4.1,Sacramento,2,0,SB721
+513,2024-07-22,33,Compliance Check,4.1,Los Angeles,1,0,SB326
+514,2024-07-15,18,Compliance Check,4.8,Sacramento,1,0,SB326
+515,2024-02-18,22,Design Consultation,3.8,San Francisco,2,0,SB721
+516,2024-07-03,37,Design Consultation,4.0,Santa Ana,1,0,Section 604
+517,2024-05-19,40,Other,3.9,Oakland,1,0,Section 604
+518,2024-08-14,30,Design Consultation,3.6,San Jose,1,0,Section 604
+519,2024-05-02,19,Inspection Report,4.8,Los Angeles,2,0,SB326
+520,2024-10-14,32,Design Consultation,4.6,San Jose,3,0,Section 604
+521,2024-01-30,36,Design Consultation,4.0,San Diego,1,0,Section 604
+522,2024-08-23,20,Design Consultation,4.5,San Francisco,2,0,Section 604
+523,2024-08-26,15,Inspection Report,4.5,Santa Ana,1,0,SB326
+524,2024-08-16,20,Compliance Check,4.1,San Jose,2,1,Section 604
+525,2024-10-08,21,Inspection Report,4.2,Los Angeles,2,0,SB721
+526,2024-09-09,17,Other,4.7,Los Angeles,1,0,Section 604
+527,2024-10-20,23,Inspection Report,4.1,San Jose,1,0,SB326
+528,2024-08-31,23,Inspection Report,4.0,San Diego,1,0,Section 604
+529,2024-07-26,40,Compliance Check,4.9,Los Angeles,2,0,Section 604
+530,2024-06-16,19,Compliance Check,4.7,San Jose,2,0,SB326
+531,2024-03-24,25,Design Consultation,3.5,Los Angeles,2,0,SB326
+532,2024-08-04,28,Other,3.6,Santa Ana,1,1,SB721
+533,2024-11-05,38,Compliance Check,4.0,Los Angeles,3,0,SB326
+534,2024-12-25,35,Compliance Check,4.8,San Diego,1,2,SB326
+535,2024-08-27,33,Design Consultation,3.5,Los Angeles,2,0,Section 604
+536,2024-10-09,34,Inspection Report,3.8,Santa Ana,2,2,SB721
+537,2024-06-22,40,Other,5.0,San Jose,1,1,SB721
+538,2024-01-18,17,Other,3.7,Sacramento,1,1,SB721
+539,2024-04-11,19,Design Consultation,4.7,Los Angeles,1,0,Section 604
+540,2024-06-12,26,Other,4.2,Santa Ana,1,0,SB721
+541,2024-02-03,34,Other,4.4,Fresno,2,0,SB326
+542,2024-07-10,15,Inspection Report,4.7,San Diego,2,0,SB721
+543,2024-05-29,32,Design Consultation,3.7,San Jose,1,2,Section 604
+544,2024-09-22,31,Compliance Check,5.0,San Diego,1,0,SB721
+545,2024-03-12,24,Design Consultation,3.6,San Jose,2,0,Section 604
+546,2024-11-26,36,Design Consultation,4.7,Long Beach,1,2,SB721
+547,2024-07-16,27,Compliance Check,3.9,San Diego,1,0,Section 604
+548,2024-12-07,36,Design Consultation,3.9,Los Angeles,2,0,SB326
+549,2024-02-26,21,Inspection Report,4.0,San Diego,1,1,Section 604
+550,2024-06-23,39,Compliance Check,4.3,San Diego,1,2,SB721
+551,2024-07-13,33,Compliance Check,5.0,Bakersfield,1,1,SB326
+552,2024-03-30,35,Compliance Check,4.0,San Diego,1,1,Section 604
+553,2024-06-01,17,Inspection Report,4.4,San Jose,1,0,SB721
+554,2024-05-03,38,Design Consultation,3.9,Sacramento,1,1,Section 604
+555,2024-11-02,26,Design Consultation,4.8,Fresno,1,0,SB326
+556,2024-06-06,21,Compliance Check,5.0,San Diego,2,1,Section 604
+557,2024-03-09,31,Compliance Check,3.9,Santa Ana,1,1,Section 604
+558,2024-06-01,39,Inspection Report,3.8,San Francisco,1,0,SB721
+559,2024-01-28,15,Compliance Check,4.0,Los Angeles,1,0,Section 604
+560,2024-10-24,15,Inspection Report,5.0,Los Angeles,1,1,SB721
+561,2024-09-20,35,Design Consultation,3.8,San Jose,2,0,Section 604
+562,2024-03-31,18,Compliance Check,4.0,Long Beach,1,2,SB721
+563,2024-04-19,28,Compliance Check,4.9,Oakland,1,0,SB721
+564,2024-01-21,35,Compliance Check,3.7,San Jose,1,0,SB721
+565,2024-08-10,25,Design Consultation,4.6,Santa Ana,2,0,Section 604
+566,2024-05-13,36,Compliance Check,4.4,San Jose,1,0,SB721
+567,2024-08-01,19,Compliance Check,3.8,Los Angeles,1,0,Section 604
+568,2024-02-04,23,Inspection Report,4.4,San Jose,2,0,SB721
+569,2024-03-23,18,Design Consultation,4.8,Los Angeles,1,0,Section 604
+570,2024-07-28,36,Compliance Check,3.8,San Francisco,1,1,SB721
+571,2024-08-30,20,Compliance Check,3.8,San Francisco,1,0,SB326
+572,2024-06-26,20,Design Consultation,4.1,Santa Ana,1,0,Section 604
+573,2024-11-26,34,Design Consultation,4.0,San Jose,1,0,Section 604
+574,2024-08-30,27,Compliance Check,5.0,Los Angeles,2,0,SB721
+575,2024-12-18,29,Inspection Report,3.9,San Diego,1,0,Section 604
+576,2024-09-26,23,Inspection Report,4.7,San Jose,3,0,SB721
+577,2024-05-18,35,Inspection Report,3.5,San Diego,1,0,Section 604
+578,2024-07-13,29,Inspection Report,3.5,San Diego,1,1,SB326
+579,2024-06-16,36,Compliance Check,3.9,San Diego,1,0,SB326
+580,2024-02-13,30,Compliance Check,4.4,San Diego,1,0,SB326
+581,2024-03-29,32,Inspection Report,3.5,Los Angeles,2,1,Section 604
+582,2024-10-02,23,Other,4.6,San Diego,1,1,SB721
+583,2024-01-21,35,Inspection Report,4.3,Los Angeles,2,0,Section 604
+584,2024-01-24,29,Design Consultation,3.6,San Diego,2,0,Section 604
+585,2024-10-02,15,Compliance Check,4.8,Sacramento,2,0,SB721
+586,2024-04-29,28,Inspection Report,4.4,Los Angeles,1,0,SB326
+587,2024-07-14,23,Design Consultation,4.8,Bakersfield,2,0,SB326
+588,2024-11-28,35,Inspection Report,4.2,San Jose,1,0,SB721
+589,2024-01-05,25,Inspection Report,4.3,San Jose,1,0,Section 604
+590,2024-09-27,24,Compliance Check,3.5,Santa Ana,1,0,SB721
+591,2024-05-14,16,Design Consultation,4.6,Sacramento,2,0,SB721
+592,2024-06-07,27,Compliance Check,3.7,Sacramento,1,1,Section 604
+593,2024-03-30,28,Design Consultation,5.0,Los Angeles,1,0,SB721
+594,2024-05-02,21,Compliance Check,3.8,San Diego,1,0,Section 604
+595,2024-05-21,29,Design Consultation,3.7,Los Angeles,1,0,SB326
+596,2024-04-28,15,Inspection Report,4.7,San Diego,1,1,SB721
+597,2024-10-08,35,Other,4.5,Long Beach,1,0,SB721
+598,2024-06-28,16,Compliance Check,4.0,Los Angeles,1,0,SB326
+599,2024-10-12,20,Compliance Check,3.7,San Diego,1,0,SB721
+600,2024-06-27,21,Design Consultation,4.2,Bakersfield,1,0,SB721
+601,2024-08-04,18,Design Consultation,4.9,Los Angeles,1,0,SB326
+602,2024-07-25,22,Inspection Report,4.7,Bakersfield,2,2,SB326
+603,2024-08-21,26,Inspection Report,4.6,San Jose,2,1,SB326
+604,2024-06-03,34,Compliance Check,4.3,Los Angeles,2,0,SB721
+605,2024-11-01,40,Compliance Check,4.3,Sacramento,2,0,Section 604
+606,2024-06-11,17,Other,4.9,Los Angeles,1,0,SB326
+607,2024-11-21,19,Compliance Check,3.7,Sacramento,1,0,SB326
+608,2024-01-17,29,Design Consultation,4.5,San Diego,1,0,SB326
+609,2024-06-10,37,Inspection Report,4.8,Oakland,1,0,SB326
+610,2024-02-02,33,Design Consultation,3.7,Sacramento,2,0,Section 604
+611,2024-07-26,19,Inspection Report,3.8,Los Angeles,2,0,Section 604
+612,2024-03-29,32,Design Consultation,3.9,Los Angeles,1,0,SB721
+613,2024-02-18,19,Inspection Report,3.6,San Diego,2,0,Section 604
+614,2024-10-02,17,Compliance Check,5.0,San Diego,2,0,SB326
+615,2024-03-20,19,Inspection Report,3.9,San Diego,1,1,SB721
+616,2024-05-22,19,Compliance Check,4.8,Los Angeles,2,1,Section 604
+617,2024-02-16,19,Compliance Check,3.8,Bakersfield,2,0,SB326
+618,2024-11-11,28,Inspection Report,4.0,Los Angeles,2,0,SB326
+619,2024-10-30,19,Compliance Check,3.6,Los Angeles,2,1,Section 604
+620,2024-10-01,34,Compliance Check,4.8,San Diego,2,0,SB326
+621,2024-12-05,18,Design Consultation,3.7,San Jose,2,0,SB721
+622,2024-07-19,32,Design Consultation,3.9,San Jose,1,1,SB721
+623,2024-03-11,40,Design Consultation,4.6,Santa Ana,1,1,Section 604
+624,2024-09-13,26,Inspection Report,4.8,Los Angeles,2,0,SB326
+625,2024-07-15,39,Design Consultation,5.0,Santa Ana,2,1,SB326
+626,2024-10-26,27,Inspection Report,4.9,Los Angeles,1,0,SB721
+627,2024-10-26,15,Design Consultation,3.5,San Jose,2,0,Section 604
+628,2024-10-17,20,Design Consultation,3.9,San Diego,1,1,Section 604
+629,2024-05-20,31,Inspection Report,4.1,Oakland,2,0,Section 604
+630,2024-12-28,38,Design Consultation,4.4,Los Angeles,1,0,SB721
+631,2024-05-11,21,Other,5.0,San Jose,1,0,SB326
+632,2024-07-16,17,Compliance Check,4.2,San Francisco,1,0,SB326
+633,2024-07-15,23,Compliance Check,4.7,Sacramento,1,2,Section 604
+634,2024-12-18,27,Compliance Check,3.6,San Diego,1,0,SB721
+635,2024-02-17,29,Other,3.7,Long Beach,2,0,SB721
+636,2024-04-07,24,Inspection Report,4.9,Los Angeles,1,0,SB721
+637,2024-10-11,24,Inspection Report,4.9,Oakland,2,2,Section 604
+638,2024-05-22,17,Compliance Check,4.8,San Francisco,2,0,SB326
+639,2024-03-29,18,Compliance Check,4.3,Long Beach,1,0,SB326
+640,2024-10-18,36,Other,4.2,Los Angeles,1,0,SB721
+641,2024-08-16,36,Inspection Report,4.7,Santa Ana,1,0,SB721
+642,2024-04-22,20,Compliance Check,4.6,San Diego,1,0,Section 604
+643,2024-02-24,33,Design Consultation,4.5,San Jose,2,1,SB326
+644,2024-08-13,18,Other,4.5,Fresno,1,0,Section 604
+645,2024-05-06,36,Other,4.6,San Diego,2,1,SB326
+646,2024-10-13,30,Design Consultation,4.9,Los Angeles,2,0,SB721
+647,2024-01-04,28,Design Consultation,3.8,Los Angeles,1,0,Section 604
+648,2024-10-03,15,Compliance Check,4.8,Los Angeles,2,0,Section 604
+649,2024-11-19,25,Compliance Check,4.4,Los Angeles,1,0,Section 604
+650,2024-09-19,30,Other,4.4,Oakland,1,0,Section 604
+651,2024-07-01,40,Compliance Check,4.1,San Francisco,1,0,SB721
+652,2024-02-08,34,Design Consultation,4.6,San Diego,1,0,SB721
+653,2024-10-29,23,Inspection Report,4.8,Santa Ana,2,0,SB326
+654,2024-05-11,21,Compliance Check,3.9,San Jose,1,0,SB721
+655,2024-11-19,28,Inspection Report,3.6,Los Angeles,1,0,SB721
+656,2024-11-17,28,Design Consultation,3.8,San Jose,1,1,SB721
+657,2024-11-27,22,Compliance Check,4.9,Los Angeles,1,0,Section 604
+658,2024-09-03,34,Design Consultation,4.4,Santa Ana,2,0,Section 604
+659,2024-08-03,19,Design Consultation,4.6,San Diego,1,0,SB326
+660,2024-09-25,29,Inspection Report,3.8,San Jose,2,0,Section 604
+661,2024-03-06,20,Other,4.8,San Diego,1,2,Section 604
+662,2024-01-01,25,Other,4.6,Los Angeles,1,0,SB721
+663,2024-12-08,26,Design Consultation,3.6,Sacramento,2,0,SB326
+664,2024-11-21,38,Inspection Report,4.5,Fresno,2,0,SB326
+665,2024-05-07,15,Design Consultation,3.7,Santa Ana,2,0,SB326
+666,2024-02-06,37,Other,4.5,San Diego,2,0,SB721
+667,2024-01-15,27,Compliance Check,3.5,Santa Ana,2,0,SB326
+668,2024-03-01,15,Inspection Report,4.2,Santa Ana,2,0,SB721
+669,2024-12-06,36,Design Consultation,3.7,San Diego,2,0,SB721
+670,2024-04-03,19,Inspection Report,4.6,San Jose,1,0,SB326
+671,2024-01-14,32,Inspection Report,4.5,San Jose,1,1,SB326
+672,2024-09-12,33,Design Consultation,4.8,Bakersfield,1,0,SB326
+673,2024-05-20,35,Other,4.2,San Diego,2,0,Section 604
+674,2024-10-12,29,Other,3.8,San Jose,1,1,SB721
+675,2024-06-29,27,Design Consultation,4.7,San Jose,1,2,Section 604
+676,2024-02-07,26,Other,4.6,Los Angeles,1,0,Section 604
+677,2024-09-13,19,Other,3.5,Oakland,2,0,Section 604
+678,2024-01-24,30,Compliance Check,4.5,San Diego,2,0,SB721
+679,2024-06-15,19,Other,4.6,San Francisco,2,1,Section 604
+680,2024-04-20,40,Design Consultation,4.4,Los Angeles,2,0,SB326
+681,2024-03-23,38,Inspection Report,3.5,Santa Ana,2,0,SB326
+682,2024-09-22,31,Design Consultation,4.7,Los Angeles,2,0,SB721
+683,2024-12-07,18,Design Consultation,4.1,San Jose,1,0,SB721
+684,2024-11-25,27,Inspection Report,5.0,San Diego,1,0,SB326
+685,2024-03-12,22,Compliance Check,3.8,Los Angeles,2,0,SB326
+686,2024-11-14,18,Compliance Check,3.7,Santa Ana,2,0,SB326
+687,2024-11-22,39,Compliance Check,3.5,Los Angeles,1,0,SB326
+688,2024-12-17,17,Other,4.3,San Jose,2,0,Section 604
+689,2024-10-05,39,Design Consultation,4.9,Los Angeles,2,0,Section 604
+690,2024-04-07,36,Design Consultation,4.7,Los Angeles,2,0,SB721
+691,2024-10-18,23,Inspection Report,3.9,San Jose,2,1,SB326
+692,2024-10-08,31,Inspection Report,4.0,Oakland,1,0,SB326
+693,2024-09-30,40,Compliance Check,3.6,Los Angeles,1,0,Section 604
+694,2024-08-11,29,Compliance Check,4.0,San Diego,1,0,Section 604
+695,2024-03-06,17,Inspection Report,3.9,Bakersfield,1,0,Section 604
+696,2024-10-30,19,Design Consultation,4.9,San Jose,1,0,SB326
+697,2024-10-03,21,Compliance Check,3.9,Long Beach,1,0,SB721
+698,2024-12-25,30,Inspection Report,3.8,Bakersfield,2,0,SB326
+699,2024-06-20,16,Inspection Report,3.8,Los Angeles,2,1,SB326
+700,2024-05-12,36,Inspection Report,3.9,Los Angeles,1,0,Section 604
+701,2024-08-30,29,Compliance Check,3.9,San Diego,2,0,SB326
+702,2024-02-07,25,Inspection Report,5.0,Los Angeles,1,0,SB326
+703,2024-04-20,40,Other,4.7,Bakersfield,1,2,SB721
+704,2024-03-15,31,Compliance Check,4.8,San Jose,1,0,SB721
+705,2024-03-05,22,Other,4.0,Santa Ana,1,0,SB721
+706,2024-12-22,34,Compliance Check,3.6,Sacramento,1,0,SB721
+707,2024-10-30,37,Inspection Report,4.9,Fresno,2,0,Section 604
+708,2024-05-14,25,Other,4.8,San Diego,1,1,Section 604
+709,2024-07-30,28,Design Consultation,4.2,San Diego,1,1,SB326
+710,2024-04-17,32,Compliance Check,4.9,San Jose,1,0,Section 604
+711,2024-07-03,35,Compliance Check,5.0,San Jose,2,1,Section 604
+712,2024-08-07,24,Other,4.8,Santa Ana,1,0,Section 604
+713,2024-06-16,17,Inspection Report,3.5,Los Angeles,1,1,Section 604
+714,2024-11-03,18,Design Consultation,3.5,Oakland,2,0,SB721
+715,2024-01-12,25,Inspection Report,4.7,San Francisco,1,0,SB326
+716,2024-06-03,37,Compliance Check,4.7,Los Angeles,1,1,Section 604
+717,2024-02-03,35,Inspection Report,4.3,San Diego,1,0,Section 604
+718,2024-05-20,28,Design Consultation,4.8,San Jose,1,2,SB721
+719,2024-01-14,21,Compliance Check,3.8,San Diego,1,0,Section 604
+720,2024-10-28,38,Design Consultation,4.1,San Diego,1,0,SB721
+721,2024-03-29,20,Compliance Check,4.5,San Jose,2,0,Section 604
+722,2024-03-17,25,Compliance Check,4.7,Los Angeles,2,0,Section 604
+723,2024-04-20,31,Compliance Check,4.2,Los Angeles,1,0,SB326
+724,2024-05-28,24,Other,4.9,Los Angeles,1,0,Section 604
+725,2024-12-06,33,Other,5.0,Sacramento,1,0,SB326
+726,2024-05-12,16,Inspection Report,4.9,San Diego,1,0,SB326
+727,2024-12-16,33,Design Consultation,3.9,Santa Ana,1,0,SB326
+728,2024-02-12,21,Inspection Report,4.3,Long Beach,1,0,Section 604
+729,2024-03-27,28,Other,3.9,San Francisco,2,0,SB721
+730,2024-01-27,22,Compliance Check,3.8,Los Angeles,2,0,Section 604
+731,2024-10-21,31,Other,3.6,San Diego,1,0,SB326
+732,2024-02-28,33,Design Consultation,3.9,San Diego,1,0,Section 604
+733,2024-01-03,36,Other,4.5,San Jose,1,1,SB721
+734,2024-08-05,21,Design Consultation,4.5,San Diego,1,0,SB326
+735,2024-07-20,26,Design Consultation,4.4,Bakersfield,1,0,Section 604
+736,2024-09-05,27,Inspection Report,3.8,San Jose,1,0,SB326
+737,2024-10-10,33,Design Consultation,4.6,San Jose,1,1,Section 604
+738,2024-03-08,25,Other,4.6,San Jose,1,0,Section 604
+739,2024-12-01,26,Inspection Report,4.8,Oakland,1,0,SB721
+740,2024-10-30,33,Compliance Check,4.5,Los Angeles,2,0,Section 604
+741,2024-02-21,33,Inspection Report,4.9,San Francisco,2,0,Section 604
+742,2024-12-04,28,Compliance Check,4.2,San Diego,2,2,SB721
+743,2024-08-21,23,Inspection Report,4.6,San Jose,1,0,SB326
+744,2024-05-04,30,Inspection Report,4.0,San Jose,2,0,Section 604
+745,2024-11-11,37,Inspection Report,4.7,San Jose,1,0,SB721
+746,2024-10-11,25,Inspection Report,4.8,Los Angeles,3,1,SB326
+747,2024-12-07,31,Design Consultation,4.5,Los Angeles,1,0,SB326
+748,2024-07-21,22,Compliance Check,4.5,Long Beach,1,0,SB326
+749,2024-09-17,16,Compliance Check,4.5,San Jose,1,0,SB326
+750,2024-08-18,27,Other,3.7,Los Angeles,1,0,SB721
+751,2024-04-15,16,Inspection Report,4.9,Los Angeles,1,0,SB326
+752,2024-12-05,37,Other,4.9,Bakersfield,1,0,SB721
+753,2024-05-17,37,Compliance Check,4.1,San Francisco,2,0,Section 604
+754,2024-02-13,37,Inspection Report,4.3,Santa Ana,2,1,Section 604
+755,2024-12-19,36,Compliance Check,3.8,Los Angeles,1,0,SB326
+756,2024-01-16,15,Inspection Report,4.4,Bakersfield,1,1,SB721
+757,2024-08-29,40,Design Consultation,4.7,Oakland,1,0,SB721
+758,2024-02-06,32,Compliance Check,3.8,Los Angeles,1,0,Section 604
+759,2024-10-03,37,Inspection Report,4.4,Los Angeles,1,0,SB326
+760,2024-12-07,20,Design Consultation,3.5,Oakland,1,0,SB326
+761,2024-06-05,30,Inspection Report,4.7,Fresno,1,0,SB326
+762,2024-12-27,27,Design Consultation,4.5,San Diego,1,0,SB326
+763,2024-04-12,39,Compliance Check,3.9,Fresno,1,1,SB721
+764,2024-07-06,25,Compliance Check,3.6,Los Angeles,2,0,SB721
+765,2024-10-27,25,Compliance Check,3.6,Oakland,2,0,SB326
+766,2024-01-28,24,Inspection Report,3.8,Oakland,1,0,SB326
+767,2024-05-17,30,Design Consultation,4.8,Los Angeles,3,0,SB326
+768,2024-05-04,36,Other,3.6,Los Angeles,1,0,SB326
+769,2024-04-04,18,Other,4.7,San Jose,1,0,SB326
+770,2024-09-12,22,Compliance Check,3.7,Bakersfield,1,1,SB326
+771,2024-06-04,32,Inspection Report,4.4,Santa Ana,1,0,SB326
+772,2024-07-16,21,Inspection Report,3.7,San Diego,1,0,Section 604
+773,2024-04-03,28,Compliance Check,3.7,Los Angeles,1,0,SB721
+774,2024-08-17,37,Compliance Check,3.7,San Diego,2,1,SB721
+775,2024-06-22,39,Compliance Check,4.9,San Jose,2,0,Section 604
+776,2024-02-09,18,Compliance Check,4.8,San Jose,2,0,Section 604
+777,2024-10-12,28,Inspection Report,3.6,San Francisco,1,1,SB326
+778,2024-02-28,15,Inspection Report,4.0,San Diego,1,0,Section 604
+779,2024-07-08,27,Compliance Check,3.7,Sacramento,1,0,SB721
+780,2024-12-01,16,Other,4.4,San Diego,1,1,SB326
+781,2024-03-30,35,Inspection Report,5.0,Los Angeles,1,0,SB326
+782,2024-11-21,21,Design Consultation,4.6,Sacramento,1,1,SB721
+783,2024-01-09,18,Compliance Check,4.4,San Jose,1,0,Section 604
+784,2024-11-09,17,Inspection Report,4.9,San Diego,1,1,SB326
+785,2024-07-11,34,Inspection Report,4.7,San Francisco,1,0,SB721
+786,2024-12-29,24,Compliance Check,3.7,San Jose,2,0,Section 604
+787,2024-07-18,18,Other,4.0,Long Beach,2,1,SB721
+788,2024-06-30,23,Other,3.7,Oakland,1,2,Section 604
+789,2024-04-22,20,Design Consultation,3.5,Los Angeles,1,0,SB326
+790,2024-01-15,35,Design Consultation,3.5,San Diego,2,0,Section 604
+791,2024-01-11,30,Design Consultation,4.3,San Diego,2,1,SB721
+792,2024-03-30,26,Other,4.4,San Diego,1,2,SB326
+793,2024-03-15,32,Design Consultation,4.7,Los Angeles,1,0,SB326
+794,2024-08-28,18,Design Consultation,4.9,San Diego,1,0,Section 604
+795,2024-10-05,25,Design Consultation,4.3,San Francisco,2,0,SB326
+796,2024-08-24,26,Inspection Report,4.2,Los Angeles,1,0,Section 604
+797,2024-03-24,35,Design Consultation,4.1,Los Angeles,2,2,SB721
+798,2024-07-02,34,Compliance Check,4.5,Fresno,1,0,SB326
+799,2024-03-07,23,Compliance Check,4.0,Los Angeles,1,0,SB326
+800,2024-02-22,18,Design Consultation,3.5,Los Angeles,1,0,SB326
+801,2024-04-28,19,Compliance Check,4.2,San Diego,1,0,Section 604
+802,2024-07-31,31,Design Consultation,4.6,San Francisco,1,2,SB326
+803,2024-02-04,21,Design Consultation,3.6,San Diego,1,0,Section 604
+804,2024-10-27,40,Inspection Report,3.6,Santa Ana,1,0,Section 604
+805,2024-09-07,30,Inspection Report,4.4,San Diego,1,0,SB326
+806,2024-02-06,34,Design Consultation,4.6,Fresno,1,0,SB721
+807,2024-11-17,17,Compliance Check,3.5,Los Angeles,2,0,Section 604
+808,2024-09-23,31,Design Consultation,4.0,San Jose,1,0,Section 604
+809,2024-01-29,18,Inspection Report,4.1,Santa Ana,1,1,SB721
+810,2024-04-01,17,Other,4.8,San Jose,1,0,Section 604
+811,2024-05-08,21,Inspection Report,4.8,San Diego,1,0,Section 604
+812,2024-08-03,24,Inspection Report,4.3,Sacramento,2,0,Section 604
+813,2024-01-19,32,Inspection Report,4.9,Los Angeles,1,0,SB326
+814,2024-11-12,18,Other,4.6,San Diego,1,0,Section 604
+815,2024-01-28,24,Compliance Check,3.8,Los Angeles,2,0,SB721
+816,2024-07-08,24,Compliance Check,3.6,Los Angeles,1,0,SB721
+817,2024-03-07,16,Design Consultation,4.8,Long Beach,2,1,SB326
+818,2024-11-24,25,Compliance Check,4.2,Los Angeles,1,0,SB721
+819,2024-03-19,40,Inspection Report,4.0,Los Angeles,2,0,SB721
+820,2024-06-16,39,Design Consultation,3.7,San Diego,1,0,SB326
+821,2024-04-12,22,Compliance Check,4.1,Fresno,2,0,SB721
+822,2024-02-04,38,Compliance Check,4.7,San Francisco,1,0,Section 604
+823,2024-08-21,22,Design Consultation,4.3,Oakland,1,0,SB721
+824,2024-04-27,28,Design Consultation,4.5,Los Angeles,1,0,Section 604
+825,2024-02-10,19,Compliance Check,4.9,Los Angeles,2,0,SB326
+826,2024-09-21,15,Design Consultation,4.4,Los Angeles,1,0,SB721
+827,2024-09-25,33,Inspection Report,3.6,San Jose,2,1,SB721
+828,2024-06-22,18,Other,4.4,San Diego,1,0,SB721
+829,2024-11-19,24,Design Consultation,3.6,Bakersfield,1,1,Section 604
+830,2024-06-28,29,Compliance Check,3.6,Fresno,2,0,SB721
+831,2024-05-05,17,Other,3.9,Sacramento,1,0,SB326
+832,2024-07-16,21,Compliance Check,4.7,Los Angeles,1,0,Section 604
+833,2024-07-06,24,Inspection Report,4.9,Santa Ana,2,1,SB721
+834,2024-11-22,40,Inspection Report,4.1,Santa Ana,2,0,Section 604
+835,2024-01-23,21,Design Consultation,4.8,Bakersfield,2,0,SB326
+836,2024-08-23,31,Inspection Report,5.0,Los Angeles,1,0,SB721
+837,2024-12-30,18,Design Consultation,4.8,San Diego,1,0,Section 604
+838,2024-11-20,37,Inspection Report,4.8,San Diego,1,1,SB721
+839,2024-11-14,24,Other,4.3,Los Angeles,2,0,Section 604
+840,2024-02-19,40,Design Consultation,5.0,San Diego,1,0,SB721
+841,2024-02-06,37,Compliance Check,3.5,Bakersfield,1,0,SB326
+842,2024-09-28,35,Design Consultation,4.9,Santa Ana,2,0,SB326
+843,2024-10-02,38,Design Consultation,4.8,Oakland,1,0,SB721
+844,2024-06-05,21,Other,3.7,Bakersfield,2,0,SB721
+845,2024-07-16,35,Design Consultation,3.7,Fresno,1,0,SB721
+846,2024-03-29,40,Design Consultation,3.9,Los Angeles,1,0,SB721
+847,2024-06-13,39,Design Consultation,4.1,Bakersfield,2,0,SB721
+848,2024-12-30,27,Compliance Check,3.7,San Jose,1,0,SB721
+849,2024-09-23,17,Compliance Check,4.2,Los Angeles,2,0,SB326
+850,2024-05-22,25,Other,4.4,Oakland,2,0,SB326
+851,2024-12-25,38,Design Consultation,4.2,Oakland,2,0,SB721
+852,2024-06-19,36,Inspection Report,4.8,Bakersfield,1,0,SB721
+853,2024-05-21,18,Compliance Check,3.7,Los Angeles,2,0,Section 604
+854,2024-09-16,21,Compliance Check,3.7,Santa Ana,2,0,Section 604
+855,2024-07-02,26,Design Consultation,4.5,San Jose,2,0,Section 604
+856,2024-08-09,40,Other,4.0,Santa Ana,2,0,Section 604
+857,2024-01-02,16,Compliance Check,4.6,Los Angeles,2,1,SB721
+858,2024-09-17,30,Compliance Check,3.7,Santa Ana,1,0,Section 604
+859,2024-09-05,25,Inspection Report,4.9,Los Angeles,1,0,SB721
+860,2024-02-21,31,Inspection Report,3.7,Los Angeles,1,1,Section 604
+861,2024-02-07,17,Inspection Report,4.0,San Jose,1,0,Section 604
+862,2024-07-01,39,Design Consultation,4.8,Los Angeles,2,1,Section 604
+863,2024-10-20,37,Inspection Report,4.5,San Diego,1,1,SB721
+864,2024-03-07,30,Inspection Report,4.7,San Diego,2,0,Section 604
+865,2024-10-23,26,Inspection Report,4.8,San Diego,1,0,SB326
+866,2024-05-19,33,Design Consultation,4.4,Long Beach,2,0,Section 604
+867,2024-11-14,40,Design Consultation,4.4,Bakersfield,1,0,Section 604
+868,2024-07-16,30,Compliance Check,3.6,Santa Ana,1,0,SB721
+869,2024-08-17,33,Inspection Report,3.5,Santa Ana,1,0,Section 604
+870,2024-09-15,27,Compliance Check,3.7,Los Angeles,1,1,SB326
+871,2024-08-15,21,Compliance Check,4.2,Los Angeles,1,0,Section 604
+872,2024-03-14,38,Inspection Report,3.8,San Francisco,2,0,SB721
+873,2024-08-15,17,Inspection Report,3.6,San Diego,1,1,SB721
+874,2024-01-11,27,Design Consultation,3.5,Los Angeles,2,0,SB326
+875,2024-08-08,29,Design Consultation,4.3,Oakland,1,2,SB721
+876,2024-12-03,22,Other,4.7,Los Angeles,1,1,SB721
+877,2024-07-05,21,Design Consultation,4.1,San Diego,1,0,SB721
+878,2024-05-14,27,Compliance Check,4.8,Los Angeles,1,1,SB326
+879,2024-09-26,39,Inspection Report,3.9,San Diego,2,0,SB326
+880,2024-04-25,36,Design Consultation,4.6,San Jose,1,0,Section 604
+881,2024-02-28,34,Compliance Check,3.8,Sacramento,1,1,SB721
+882,2024-07-28,33,Design Consultation,3.9,San Diego,1,0,SB721
+883,2024-06-26,36,Other,4.7,Los Angeles,2,0,SB721
+884,2024-09-12,38,Compliance Check,3.9,San Diego,2,0,SB326
+885,2024-04-28,26,Other,4.2,San Jose,1,1,Section 604
+886,2024-04-05,17,Design Consultation,4.7,San Diego,2,0,SB721
+887,2024-10-07,24,Compliance Check,4.7,Los Angeles,3,1,Section 604
+888,2024-01-03,30,Design Consultation,4.0,Santa Ana,1,0,Section 604
+889,2024-01-02,34,Other,3.9,Sacramento,1,0,SB721
+890,2024-11-07,28,Other,4.8,San Jose,2,0,SB721
+891,2024-03-12,15,Compliance Check,4.7,Long Beach,2,0,SB721
+892,2024-02-16,24,Other,3.8,San Diego,1,1,SB326
+893,2024-08-13,29,Design Consultation,4.1,Santa Ana,1,0,SB721
+894,2024-02-05,37,Design Consultation,5.0,Oakland,1,1,SB721
+895,2024-05-02,25,Inspection Report,3.7,Santa Ana,1,1,Section 604
+896,2024-02-19,24,Compliance Check,3.6,Los Angeles,2,0,SB721
+897,2024-01-10,21,Inspection Report,4.8,San Jose,2,0,SB326
+898,2024-09-27,28,Inspection Report,4.9,San Jose,1,2,Section 604
+899,2024-11-12,24,Compliance Check,5.0,Sacramento,1,0,SB326
+900,2024-06-05,15,Compliance Check,3.7,Oakland,1,0,SB326
+901,2024-08-16,17,Inspection Report,4.0,San Diego,1,0,SB326
+902,2024-11-29,19,Other,3.6,San Jose,1,1,Section 604
+903,2024-09-09,37,Inspection Report,3.7,Los Angeles,1,2,SB326
+904,2024-10-03,38,Design Consultation,4.8,Santa Ana,1,0,SB326
+905,2024-03-02,23,Design Consultation,4.4,San Diego,2,0,SB326
+906,2024-02-15,34,Compliance Check,4.0,San Diego,1,0,SB721
+907,2024-05-16,23,Compliance Check,4.5,San Jose,1,1,SB721
+908,2024-11-09,36,Design Consultation,3.9,Sacramento,1,0,SB326
+909,2024-07-05,18,Design Consultation,4.8,San Jose,1,0,Section 604
+910,2024-01-29,35,Compliance Check,4.3,Sacramento,2,1,SB326
+911,2024-02-08,16,Compliance Check,5.0,San Jose,2,0,Section 604
+912,2024-04-04,30,Other,4.5,Santa Ana,2,0,Section 604
+913,2024-06-20,28,Inspection Report,5.0,Sacramento,1,0,Section 604
+914,2024-11-20,27,Compliance Check,3.6,San Diego,1,1,Section 604
+915,2024-01-22,22,Design Consultation,4.6,Los Angeles,1,0,SB721
+916,2024-11-26,22,Design Consultation,4.3,Santa Ana,1,0,SB721
+917,2024-12-21,20,Compliance Check,4.5,San Francisco,1,0,SB326
+918,2024-12-30,19,Other,4.3,Los Angeles,1,0,SB326
+919,2024-08-17,21,Inspection Report,4.5,Los Angeles,1,1,SB326
+920,2024-01-22,21,Compliance Check,4.8,Oakland,1,0,SB721
+921,2024-05-30,17,Compliance Check,4.9,Fresno,1,0,SB721
+922,2024-11-13,37,Inspection Report,4.1,Los Angeles,1,0,SB721
+923,2024-05-22,38,Compliance Check,4.1,Santa Ana,1,0,Section 604
+924,2024-05-08,18,Other,3.5,San Jose,2,0,Section 604
+925,2024-12-01,17,Compliance Check,3.5,San Diego,2,0,SB326
+926,2024-12-27,30,Other,4.2,San Diego,3,1,Section 604
+927,2024-01-03,40,Other,3.8,Los Angeles,1,0,SB721
+928,2024-01-09,25,Inspection Report,4.6,San Jose,2,0,SB326
+929,2024-09-16,34,Compliance Check,3.9,San Diego,2,0,SB721
+930,2024-07-18,17,Design Consultation,5.0,San Diego,2,0,Section 604
+931,2024-08-08,39,Design Consultation,4.4,Sacramento,1,0,SB326
+932,2024-09-15,20,Design Consultation,4.2,Sacramento,1,0,SB721
+933,2024-12-09,28,Design Consultation,4.5,Long Beach,3,2,SB721
+934,2024-01-29,37,Compliance Check,5.0,Sacramento,1,0,Section 604
+935,2024-03-10,37,Inspection Report,4.6,Los Angeles,1,0,SB326
+936,2024-05-22,31,Compliance Check,4.4,San Diego,2,0,SB326
+937,2024-07-05,39,Inspection Report,3.5,San Jose,1,0,SB326
+938,2024-01-21,21,Other,4.3,San Jose,2,0,Section 604
+939,2024-05-23,18,Other,3.7,Los Angeles,2,0,SB326
+940,2024-10-24,29,Compliance Check,3.5,San Jose,1,1,Section 604
+941,2024-05-05,40,Design Consultation,4.9,Los Angeles,1,0,SB721
+942,2024-12-15,15,Other,3.7,Los Angeles,1,0,SB721
+943,2024-09-14,39,Other,5.0,Sacramento,1,0,SB721
+944,2024-03-11,27,Compliance Check,4.4,Long Beach,2,1,SB326
+945,2024-07-11,15,Compliance Check,4.5,Los Angeles,2,0,Section 604
+946,2024-02-19,39,Compliance Check,4.9,Santa Ana,2,0,Section 604
+947,2024-08-10,22,Compliance Check,4.3,Fresno,1,2,SB326
+948,2024-11-11,18,Design Consultation,3.6,Los Angeles,1,0,SB326
+949,2024-01-24,25,Inspection Report,4.6,San Diego,2,0,SB721
+950,2024-07-29,40,Compliance Check,4.4,Long Beach,2,0,SB326
+951,2024-04-15,37,Compliance Check,3.7,Santa Ana,2,0,SB721
+952,2024-07-13,30,Compliance Check,3.5,Sacramento,1,0,SB721
+953,2024-04-08,18,Design Consultation,4.6,San Jose,1,0,SB326
+954,2024-11-08,31,Inspection Report,4.7,San Jose,1,0,SB326
+955,2024-04-29,23,Design Consultation,3.9,Los Angeles,2,0,SB721
+956,2024-10-08,27,Compliance Check,4.5,Los Angeles,1,2,SB721
+957,2024-07-06,30,Design Consultation,4.6,San Jose,2,0,Section 604
+958,2024-10-09,16,Compliance Check,4.0,Santa Ana,1,0,SB721
+959,2024-03-30,32,Other,4.2,San Diego,1,2,SB721
+960,2024-02-22,23,Other,4.8,San Diego,1,0,Section 604
+961,2024-01-05,17,Compliance Check,3.6,Fresno,1,0,Section 604
+962,2024-02-19,15,Compliance Check,3.5,Los Angeles,2,0,SB721
+963,2024-07-28,40,Inspection Report,3.5,Los Angeles,2,0,SB326
+964,2024-01-22,27,Inspection Report,3.9,Los Angeles,1,1,Section 604
+965,2024-02-24,21,Compliance Check,4.2,San Jose,2,1,SB326
+966,2024-06-18,26,Compliance Check,4.5,San Diego,1,2,SB721
+967,2024-03-30,21,Design Consultation,3.8,San Francisco,2,0,SB721
+968,2024-11-21,34,Other,4.5,San Diego,1,0,Section 604
+969,2024-04-19,19,Other,4.1,San Francisco,1,1,SB721
+970,2024-12-04,36,Other,4.8,San Francisco,1,0,SB721
+971,2024-06-26,31,Design Consultation,4.6,San Francisco,2,0,Section 604
+972,2024-11-13,24,Design Consultation,4.0,San Diego,1,1,SB326
+973,2024-10-09,20,Other,4.0,San Diego,1,0,SB721
+974,2024-10-25,34,Design Consultation,4.9,San Diego,2,0,Section 604
+975,2024-03-05,24,Design Consultation,3.6,Los Angeles,1,0,SB326
+976,2024-09-09,40,Design Consultation,4.0,San Jose,1,0,SB326
+977,2024-10-16,27,Compliance Check,4.8,San Diego,2,1,Section 604
+978,2024-09-09,28,Design Consultation,3.5,San Jose,1,0,SB721
+979,2024-09-04,21,Compliance Check,4.3,San Diego,1,0,SB326
+980,2024-02-25,36,Compliance Check,5.0,Santa Ana,3,0,SB326
+981,2024-06-24,19,Compliance Check,4.5,Long Beach,1,0,SB721
+982,2024-01-05,20,Compliance Check,3.8,San Diego,2,0,SB721
+983,2024-10-31,16,Design Consultation,4.0,Fresno,1,0,Section 604
+984,2024-10-08,17,Other,4.2,Los Angeles,1,1,SB721
+985,2024-05-28,17,Inspection Report,4.9,San Francisco,1,0,SB721
+986,2024-08-14,28,Design Consultation,3.5,San Jose,1,0,SB721
+987,2024-11-05,26,Other,4.7,San Diego,1,0,SB326
+988,2024-11-17,35,Compliance Check,4.2,Los Angeles,1,0,Section 604
+989,2024-04-11,32,Design Consultation,3.9,Los Angeles,2,0,SB326
+990,2024-04-06,26,Inspection Report,4.1,Los Angeles,2,1,Section 604
+991,2024-10-15,22,Inspection Report,4.7,San Jose,1,0,SB326
+992,2024-12-22,37,Inspection Report,4.1,San Diego,1,0,SB721
+993,2024-05-15,16,Inspection Report,3.6,San Jose,1,0,SB721
+994,2024-10-12,29,Inspection Report,3.5,Los Angeles,2,0,Section 604
+995,2024-03-13,20,Compliance Check,4.4,San Jose,1,0,Section 604
+996,2024-08-26,24,Other,4.4,Los Angeles,1,1,SB326
+997,2024-09-23,33,Design Consultation,4.3,San Diego,1,0,Section 604
+998,2024-08-14,39,Compliance Check,3.5,Los Angeles,2,0,SB326
+999,2024-05-30,35,Design Consultation,3.7,Oakland,1,0,Section 604
+1000,2024-09-24,35,Inspection Report,4.2,San Diego,1,0,Section 604
