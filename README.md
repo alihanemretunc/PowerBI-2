@@ -1,7 +1,7 @@
 ## Customer Experience Dashboard - Unguided Power BI Project
 
-[!NOTE]
-I used **Excel** for simulating data, **Python** for statistical analysis, and **Power BI** for visualization.
+> [!NOTE]
+> I used **Excel** for simulating data, **Python** for statistical analysis, and **Power BI** for visualization.
 
 You can see the details below.
 
@@ -9,7 +9,7 @@ You can see the details below.
 
 ### Dataset
 
-- I checked the company (website)[https://drbalcony.com/] and simulated the data along with the help of ChatGPT.
+- I checked the company [website](https://drbalcony.com/) and simulated the data along with the help of ChatGPT.
 - 1000 rows
 - Columns: |  user_id  |  session_date  |  session_duration_in_minutes  |  features_used  |  user_feedback_score  |  user_location  |  app_load_time_in_seconds  |  error_occurrences  |  regulatory_focus  |
 - Explanation of Columns: user_id --> 1000 unique ids, session_date --> meeting dates in 2024 with the customers for product overviews, session_duration_in_minutes --> whole positive number,
